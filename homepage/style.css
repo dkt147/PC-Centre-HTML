@@ -1,0 +1,32 @@
+ .logo{
+ 	width:110px;
+ 	height: 110px;
+ 	padding: 0;
+ 	margin: 0;
+ }
+
+ .narrow{
+ 	width: 75%;
+ 	margin: 1.5ren auto;
+ 	padding-top: 2ren;
+ }
+ .narrow h1{
+ 	font-size: 2.4ren;
+ }
+ .btn-secondary{
+ 	border-width: medium;
+ 	border-radius: 0;
+ 	padding: .6ren 1.2ren;
+ 	font-size: 1.2ren;
+ 	text-transform: uppercase;
+ 	margin: 1ren;
+ 	border-color: #1EBBA3;
+ 	background-color: #1EBBA3;
+ 	color: white;
+ }
+ .btn-secondary:hover,
+ .btn-secondary:focus{
+ 	border-color: #189582;
+ 	background-color: #189582;
+ 	color: white;
+ }
